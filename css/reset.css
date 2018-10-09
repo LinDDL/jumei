@@ -1,0 +1,13 @@
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img { margin:0; padding:0; }
+fieldset, img { border:0; }
+html,body{font-family:"微软雅黑",12px/1.5 Microsoft YaHei,tahoma,arial,Hiragino Sans GB,\\5b8b体,sans-serif;}
+img{display: block;}
+address, caption, cite, code, dfn, th, var { font-style:normal; font-weight:normal; }
+ul, ol { list-style:none; } 
+body { color:#333; padding:5px 0; font:12px/20px "SimSun","宋体","Arial Narrow",HELVETICA; background:#fff;overflow-x:scroll; /*overflow-x:hidden;*/}
+a { color:#666; text-decoration:none;}
+a:visited { color:#666; }
+a:hover,a:active,a:focus{ color: #ed155b}
+.clearfix:after{clear:both; content:''; font-size:0; display:block; visibility:hidden; height:0}
+em{font-style: none;}
+input,option,select,button{outline:none;border:none;cursor: pointer;}
